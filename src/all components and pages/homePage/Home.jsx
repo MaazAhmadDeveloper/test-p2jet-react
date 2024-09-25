@@ -5,7 +5,7 @@ import Midsection from './Midsection';
 const HomePage = () => {
   return (
     <div>
-      <HeroImage />
+      {/* <HeroImage /> */}
       <Midsection />
     </div>
   )
