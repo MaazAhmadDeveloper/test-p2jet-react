@@ -42,7 +42,7 @@ const Midsection = () => {
           <div className="col-sm-6">
             <div className="card discount-card-image mb-4">
               <img
-                src="https://park2jetdenver.com/assets/images/coupons/outdoor_coupn.png"
+                src="./assets/outdoor_coupn.png"
                 loading="lazy"
                 className="card-img-top"
                 alt="Discount card image"
@@ -59,7 +59,7 @@ const Midsection = () => {
           <div className="col-sm-6">
             <div className="card discount-card-image mb-4">
               <img
-                src="https://park2jetdenver.com/assets/images/coupons/outdoor_coupn.png"
+                src="./assets/outdoor_coupn.png"
                 loading="lazy"
                 className="card-img-top"
                 alt="Discount card image"

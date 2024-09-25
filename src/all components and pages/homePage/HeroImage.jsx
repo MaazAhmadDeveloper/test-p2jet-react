@@ -7,7 +7,7 @@ const HeroImage = () => {
         <div className="image-div">
             <img
               className="image-hero"
-              src="https://park2jetdenver.com/assets/images/home-banner/1.webp"
+              src="./assets/1.webp"
               alt="Park2jet Image in hero section"
             />
           <div className="center">

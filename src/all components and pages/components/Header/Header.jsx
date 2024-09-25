@@ -6,7 +6,7 @@ const Header = () => {
         <nav className="navbar navbar-expand-md navbar-light bg-light ">
     <div className="container-fluid ">
       <a className="navbar-brand" href="/">
-        <img className="nav-brand-image" src="https://park2jetdenver.com/assets/images/Park2jet/headerlogo.webp" alt="Brand logo" />
+        <img className="nav-brand-image" src="./assets/headerlogo.webp" alt="Brand logo" />
       </a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
